@@ -1,0 +1,14 @@
+streamlit
+langchain
+langchain-ollama
+langchain-core
+langchain-text-splitters
+selenium
+beautifulsoup4
+lxml
+html5lib
+python-dotenv
+pandas
+openpyxl
+reportlab
+requests

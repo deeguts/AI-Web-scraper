@@ -1,0 +1,26 @@
+[theme]
+
+This sets the base theme to Streamlit's dark mode
+
+base = "dark"
+
+This is the "navy blue" you requested.
+
+It will be used for buttons, spinners, and other primary elements.
+
+primaryColor = "#2E5BFF" # A modern, vibrant blue
+
+Dark background colors
+
+backgroundColor = "#0E1117" # Main background (Streamlit's default dark)
+secondaryBackgroundColor = "#1C2028" # Widget/sidebar background
+
+Text color
+
+textColor = "#FAFAFA"
+
+This is the professional font we are loading in main.py
+
+If the font can't be loaded, it will fall back to sans-serif.
+
+font = "Inter"
